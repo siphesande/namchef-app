@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/namchef-app/precache-manifest.18d963071fb4b3780ce067117862e160.js"
+  "/namchef-app/precache-manifest.35b236e6e1c97e00f8cd216fa1b97fbe.js"
 );
 
 self.addEventListener('message', (event) => {
