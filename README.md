@@ -1,1 +1,1 @@
-# namchef-app
+chef app
