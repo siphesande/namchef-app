@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/namchef-app/static/css/main.35424518.chunk.css",
+    "main.js": "/namchef-app/static/js/main.103dd176.chunk.js",
+    "main.js.map": "/namchef-app/static/js/main.103dd176.chunk.js.map",
+    "runtime~main.js": "/namchef-app/static/js/runtime~main.b793984c.js",
+    "runtime~main.js.map": "/namchef-app/static/js/runtime~main.b793984c.js.map",
+    "static/js/2.b4cc290c.chunk.js": "/namchef-app/static/js/2.b4cc290c.chunk.js",
+    "static/js/2.b4cc290c.chunk.js.map": "/namchef-app/static/js/2.b4cc290c.chunk.js.map",
+    "index.html": "/namchef-app/index.html",
+    "precache-manifest.18d963071fb4b3780ce067117862e160.js": "/namchef-app/precache-manifest.18d963071fb4b3780ce067117862e160.js",
+    "service-worker.js": "/namchef-app/service-worker.js",
+    "static/css/main.35424518.chunk.css.map": "/namchef-app/static/css/main.35424518.chunk.css.map"
+  }
+}
