@@ -9,7 +9,7 @@ export default class extends Component {
                 justifyContent: 'center',
                 alignItems: 'center',
                 height: '100vh',
-                background: "url('/nam.webp')",
+                background: "url('../nam.webp')",
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
                 padding: 0,
