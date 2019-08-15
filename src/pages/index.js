@@ -10,7 +10,7 @@ export default class extends Component {
                 justifyContent: 'center',
                 alignItems: 'center',
                 height: '100vh',
-                background: "url('../nam.webp')",
+                background: "url('https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466__340.jpg')",
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
                 padding: 0,
