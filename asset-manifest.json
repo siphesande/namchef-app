@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/namchef-app/static/css/main.35424518.chunk.css",
-    "main.js": "/namchef-app/static/js/main.18075afd.chunk.js",
-    "main.js.map": "/namchef-app/static/js/main.18075afd.chunk.js.map",
+    "main.js": "/namchef-app/static/js/main.546c4a9b.chunk.js",
+    "main.js.map": "/namchef-app/static/js/main.546c4a9b.chunk.js.map",
     "runtime~main.js": "/namchef-app/static/js/runtime~main.b793984c.js",
     "runtime~main.js.map": "/namchef-app/static/js/runtime~main.b793984c.js.map",
     "static/js/2.c8aa3c6a.chunk.js": "/namchef-app/static/js/2.c8aa3c6a.chunk.js",
     "static/js/2.c8aa3c6a.chunk.js.map": "/namchef-app/static/js/2.c8aa3c6a.chunk.js.map",
     "index.html": "/namchef-app/index.html",
-    "precache-manifest.f33a69dd63242771d223449d218c5b08.js": "/namchef-app/precache-manifest.f33a69dd63242771d223449d218c5b08.js",
+    "precache-manifest.40c4eecad7926bb5747d9d2d1efe5046.js": "/namchef-app/precache-manifest.40c4eecad7926bb5747d9d2d1efe5046.js",
     "service-worker.js": "/namchef-app/service-worker.js",
     "static/css/main.35424518.chunk.css.map": "/namchef-app/static/css/main.35424518.chunk.css.map"
   }

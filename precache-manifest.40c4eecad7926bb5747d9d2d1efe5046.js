@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bcafb5ad84cc912ab97e90fb432c284",
+    "revision": "511e798ec1825008e30b2d1dac51eae0",
     "url": "/namchef-app/index.html"
   },
   {
-    "revision": "7981d6b899dc41ef72c5",
+    "revision": "fee1b09f5c20bdb8a0ec",
     "url": "/namchef-app/static/css/main.35424518.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/namchef-app/static/js/2.c8aa3c6a.chunk.js"
   },
   {
-    "revision": "7981d6b899dc41ef72c5",
-    "url": "/namchef-app/static/js/main.18075afd.chunk.js"
+    "revision": "fee1b09f5c20bdb8a0ec",
+    "url": "/namchef-app/static/js/main.546c4a9b.chunk.js"
   },
   {
     "revision": "78f8ae75290a961a86b1",
